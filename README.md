@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Practical GraphQL*](https://www.link.springer.com/book/10.1007/978-1-4842-9621-9) by Nabendu Biswas (Apress, 2024).
+This repository accompanies [*Practical GraphQL*](https://www.link.springer.com/book/10.1007/978-1-4842-9621-9) by Nabendu Biswas (Apress, 2023).
 
 [comment]: #cover
 ![Cover image](978-1-4842-9620-2.jpg)
