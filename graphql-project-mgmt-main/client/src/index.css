@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Finlandica:wght@400;600;700&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Finlandica', Arial, Helvetica, sans-serif;
+}
+
+code {
+  font-family: 'Courier New', monospace;
+}
+
+.navbar-brand {
+  color: #0815a6;
+}
+
+.navbar-brand img {
+  width: 30px;
+  margin-right: 10px;
+}
+
+.btn {
+  font-size: 15px;
+}
+
+.btn-primary,
+.bg-primary {
+  background-color: #0815a6 !important;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #0815a6;
+  opacity: 0.9;
+}
+
+.btn-secondary {
+  background-color: darkmagenta;
+}
+
+.btn-secondary:hover {
+  background-color: darkmagenta;
+  opacity: 0.9;
+}
+
+.icon {
+  margin-right: 5px;
+}
